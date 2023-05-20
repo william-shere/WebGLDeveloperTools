@@ -1,8 +1,8 @@
 # WebGLDeveloperTools
 
-A small repository containing a few useful WebGL developer tools.
+A small repository containing a few useful WebGL developer tools. 
 
-Intended to be used as an ES6 module.
+Forked from [https://github.com/KhronosGroup/WebGLDeveloperTools](), this branch adds a `package.json` to allow the library to be used with standard dependency management tools eg. [Yarn](https://yarnpkg.com/) and a Typescript style type defintions file.
 
 Releases:
 

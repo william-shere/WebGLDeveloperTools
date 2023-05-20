@@ -1,0 +1,7 @@
+{
+  "name": "webgl-debug",
+  "version": "1.0.0",
+  "main": "./src/debug/webgl-debug.js",
+  "repository": "https://github.com/william-shere/WebGLDeveloperTools",
+  "types": "./src/debug/webgl-debug.d.ts"
+}
